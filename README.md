@@ -21,7 +21,7 @@ I’m passionate about **problem-solving**, writing **clean and efficient code**
 
 ## 🛠️ Skills  
 
-- **Frontend:** React.js, React Native, TypeScript, JavaScript (ES6), Material UI, Bootstrap, HTML5, CSS3, ShadCN UI  
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6), Material UI, Bootstrap, HTML5, CSS3, ShadCN UI , Tailwind 
 - **Backend & Database:** Node.js, Express.js, MongoDB, Supabase  
 - **Other Tools:** Git, GitHub, Docker, n8n, Microsoft Office Specialist Master (MOS)  
 
